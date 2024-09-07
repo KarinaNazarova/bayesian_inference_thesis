@@ -1,0 +1,21 @@
+Model,elpd_loo,se_elpd_loo,p_loo,elpd_waic,se_elpd_waic,p_waic,idata
+horseshoe_regularised,-68.51851109239416,5.906794687316094,33.26887589238588,-62.37120692404585,5.19194572486136,27.121571724037562,"Inference data with groups:
+	> posterior
+	> log_likelihood
+	> sample_stats"
+normal,,,,-3.9124849667648043,0.28027889766193403,2.7301141788765335,"Inference data with groups:
+	> posterior
+	> log_likelihood
+	> sample_stats"
+laplace,,,,-27.51156449155151,2.2940469010412494,17.333834578851576,"Inference data with groups:
+	> posterior
+	> log_likelihood
+	> sample_stats"
+cauchy,,,,-13.916170869705184,1.394941372097132,9.234476439583476,"Inference data with groups:
+	> posterior
+	> log_likelihood
+	> sample_stats"
+horseshoe,,,,-25.53471822591461,2.5747294381242583,16.08693991444395,"Inference data with groups:
+	> posterior
+	> log_likelihood
+	> sample_stats"
